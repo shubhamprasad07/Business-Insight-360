@@ -4,8 +4,8 @@
 **Project Type:** Power BI Dashboard  
 
 ---
-**Bussiness Insight 360 Release Link:** [Power BI File](https://github.com/shubhamprasad07/Business-Insight-360/releases/tag/v1)
-**Live Report Link:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMwZTY3YjAtY2M4Ny00Mzc3LThlNjYtZmQxMTE1MWU1MmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ - **Bussiness Insight 360 Release Link:** [Power BI File](https://github.com/shubhamprasad07/Business-Insight-360/releases/tag/v1)
+ - **Live Report Link:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMwZTY3YjAtY2M4Ny00Mzc3LThlNjYtZmQxMTE1MWU1MmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
