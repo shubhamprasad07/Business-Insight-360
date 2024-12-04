@@ -125,7 +125,7 @@ The dashboard incorporates:
 
 ## 👤 **Contact**  
 For any questions or feedback, feel free to reach out:  
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/shubhamprasad)  
+- **LinkedIn:** [Your Profile](https://linkedin.com/in/07shubhamprasad)  
 - **Email:** [Your Email](shubhamprasad7777@gmail.com)  
 
 
